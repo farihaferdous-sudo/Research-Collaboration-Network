@@ -61,5 +61,3 @@ This project is built using the **MERN Stack**.
 - **SSLCommerz Payment Gateway** - Secure online payment processing.
 - **Google Calendar API** - Adding academic conference events to Google Calendar.
 - **Email API** - Automated grant deadline reminders and notifications.
-- **Vercel** - Frontend deployment.
-- **Render** - Backend deployment.
