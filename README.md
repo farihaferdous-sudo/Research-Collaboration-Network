@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Research-Connect** is a web-based platform designed to connect researchers, collaborators, institutions and academic resource providers in one centralized system. The platform supports research project management, collaboration requests, dataset sharing, funding opportunities, grant applications, lab equipment booking, academic resource discovery, AI-based collaborator matching and real-time communication.
+**Research-Connect** is a MERN stack web-based platform designed to connect researchers, collaborators, institutions and academic resource providers in one centralized system. The platform supports research project management, collaboration requests, dataset sharing, funding opportunities, grant applications, lab equipment booking, academic resource discovery, AI-based collaborator matching and real-time communication.
 
 The goal of this project is to simplify research collaboration by providing a structured digital environment where users can manage projects, find suitable collaborators, access academic resources, apply for funding and track research-related activities efficiently.
 
@@ -48,24 +48,18 @@ The goal of this project is to simplify research collaboration by providing a st
 
 ## Tech Stack
 
-### Frontend
+This project is built using the **MERN Stack**.
 
-* React.js
-* Tailwind CSS / CSS
-* Axios
-* React Router
+- **MongoDB** - Database for storing users, projects, datasets, funding opportunities, bookings, payments, and submissions.
+- **Express.js** - Backend framework for building RESTful APIs.
+- **React.js** - Frontend library for building the user interface.
+- **Node.js** - Runtime environment for handling server-side logic.
 
-### Backend
+### Additional Tools and Integrations
 
-* Node.js
-* Express.js
-* MongoDB
-* REST API
-
-### APIs and Integrations
-
-* OpenAI API for AI-based collaborator matching
-* SSLCommerz Payment Gateway API for online payments
-* Google Calendar API for conference event scheduling
-* Email API for automated grant deadline reminders
-
+- **OpenAI API** - AI-based collaborator matching and chatbot support.
+- **SSLCommerz Payment Gateway** - Secure online payment processing.
+- **Google Calendar API** - Adding academic conference events to Google Calendar.
+- **Email API** - Automated grant deadline reminders and notifications.
+- **Vercel** - Frontend deployment.
+- **Render** - Backend deployment.
