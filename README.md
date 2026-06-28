@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Research-Collaboration-Network** is a web-based platform designed to connect researchers, collaborators, institutions and academic resource providers in one centralized system. The platform supports research project management, collaboration requests, dataset sharing, funding opportunities, grant applications, lab equipment booking, academic resource discovery, AI-based collaborator matching and real-time communication.
+**Research-Connect** is a web-based platform designed to connect researchers, collaborators, institutions and academic resource providers in one centralized system. The platform supports research project management, collaboration requests, dataset sharing, funding opportunities, grant applications, lab equipment booking, academic resource discovery, AI-based collaborator matching and real-time communication.
 
 The goal of this project is to simplify research collaboration by providing a structured digital environment where users can manage projects, find suitable collaborators, access academic resources, apply for funding and track research-related activities efficiently.
 
