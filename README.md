@@ -44,3 +44,28 @@ The goal of this project is to simplify research collaboration by providing a st
 15. The system allows researchers to submit grant applications online, including proposal documents and structured forms with project title, abstract, requested funding and research field. It implements a multi-stage workflow: Submitted → Under Review → Approved/Rejected.
 
 16. Users receive automated reminders for grant deadlines. (API:Email API)
+
+
+## Tech Stack
+
+### Frontend
+
+* React.js
+* Tailwind CSS / CSS
+* Axios
+* React Router
+
+### Backend
+
+* Node.js
+* Express.js
+* MongoDB
+* REST API
+
+### APIs and Integrations
+
+* OpenAI API for AI-based collaborator matching
+* SSLCommerz Payment Gateway API for online payments
+* Google Calendar API for conference event scheduling
+* Email API for automated grant deadline reminders
+
