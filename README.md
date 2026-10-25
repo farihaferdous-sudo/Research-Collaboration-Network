@@ -9,7 +9,7 @@ The goal of this project is to simplify research collaboration by providing a st
 ## Live Links
 
 * **Vercel:** https://research-collaboration-network-lqf3.vercel.app/home
-* **Render:** https://research-collaboration-network-1.onrender.com/home
+* **Render:** https://research-collaboration-network-1.onrender.com
 
 ## Features
 
